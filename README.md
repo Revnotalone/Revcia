@@ -1,4 +1,4 @@
-![alt text](https://github.com/Revnotalone/spamwea/blob/main/revspam.jpg?raw=true)
+![alt text](https://github.com/Revnotalone/spamwea/blob/main/revxspm.jpg?raw=true)
 
 # Command In Termux        
 ```
